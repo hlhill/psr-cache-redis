@@ -1,0 +1,2 @@
+# 基于easyswoole Redis客户端的缓存驱动
+基于easyswoole Redis客户端实现的遵循PSR-16 CacheInterface的缓存驱动
